@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d4f18726-e907-4c4a-923c-e6a3776ff280/resourceGroups/RutaLimpia-RG/providers/Microsoft.Web/sites/rutalimpia-api-camilo",
+    "appService.deploySubpath": "."
+}
